@@ -1,1 +1,9 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+    }
+}
 rootProject.name = 'rankmakers'
+include 'rankmakers-web'
+include 'rankmakers-batch'
+
