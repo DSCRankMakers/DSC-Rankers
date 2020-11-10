@@ -6,4 +6,7 @@ pluginManagement {
 rootProject.name = 'rankmakers'
 include 'rankmakers-web'
 include 'rankmakers-batch'
+include 'rankmakers-core'
+include 'rankmakers-github-api'
+include 'rankmakers-common'
 
